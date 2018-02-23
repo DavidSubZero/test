@@ -1,2 +1,2 @@
 !#/usr/bin
-xrandr --output HDMI2 --rotate left
+xrandr --output HDMI-2 --rotate left
